@@ -1,0 +1,15 @@
+{
+  "name": "Mexo Sports",
+  "short_name": "247livestreamer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e0f12",
+  "theme_color": "#181a20",
+  "icons": [
+    {
+      "src": "https://user34474.na.imgto.link/public/20260921/4ceaaf3d-a23f-4352-b455-0e95fbf04a73.avif",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
